@@ -1,6 +1,6 @@
-# Past Work and Current Projects
+# Applied Machine Learning in Material Science + Chemistry
 
-#### A basic collection of all my works and projects thus far on applied machine learning in material science and chemistry, including the following concepts: 
+#### A basic collection of all my works and projects thus far in this field, including the following concepts: 
 
 #####          - Chemoinformatics (RDKit, Mordred) 
           
