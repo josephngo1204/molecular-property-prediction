@@ -1,6 +1,6 @@
 # Predictive Machine Learning in Material Science + Chemistry
 
-#### A basic collection of all my works and projects thus far in this field, including the following concepts: 
+#### A basic collection of all my works from MENG 25620 - Applied Artificial Intelligence for Materials Science and Engineering thus far, including the following concepts: 
 
 #####          - Chemoinformatics (RDKit, Mordred) 
           
